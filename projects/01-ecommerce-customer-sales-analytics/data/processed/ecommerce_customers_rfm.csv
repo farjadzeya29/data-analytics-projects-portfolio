@@ -1,0 +1,851 @@
+customer_id,customer_name,segment,region,recency_days,frequency,monetary_value,r_score,f_score,m_score,rfm_segment
+CUST-0505,Customer_505,Consumer,South,99,4,262.33,1,1,1,Hibernating / Lost
+CUST-0101,Customer_101,Consumer,North,18,7,759.26,4,1,1,Promising New
+CUST-0323,Customer_323,Home Office,North,104,4,788.04,1,1,1,Hibernating / Lost
+CUST-0069,Customer_69,Consumer,South,20,5,1305.97,4,1,1,Promising New
+CUST-0569,Customer_569,Corporate,East,78,5,1313.27,2,1,1,Hibernating / Lost
+CUST-0527,Customer_527,Corporate,West,16,11,1411.31,4,2,1,Promising New
+CUST-0838,Customer_838,Corporate,South,4,6,1437.11,5,1,1,Promising New
+CUST-0210,Customer_210,Consumer,South,36,5,1806.89,3,1,1,Hibernating / Lost
+CUST-0024,Customer_24,Consumer,East,4,7,1809.31,5,1,1,Promising New
+CUST-0819,Customer_819,Corporate,North,29,8,1921.31,3,1,1,Hibernating / Lost
+CUST-0173,Customer_173,Corporate,North,50,5,2203.8,3,1,1,Hibernating / Lost
+CUST-0559,Customer_559,Home Office,West,219,6,2250.65,1,1,1,Hibernating / Lost
+CUST-0614,Customer_614,Consumer,East,88,7,2311.62,2,1,1,Hibernating / Lost
+CUST-0808,Customer_808,Home Office,North,24,6,2391.54,4,1,1,Promising New
+CUST-0618,Customer_618,Corporate,North,47,6,2403.0,3,1,1,Hibernating / Lost
+CUST-0817,Customer_817,Home Office,West,234,11,2434.68,1,3,1,At-Risk Customers
+CUST-0304,Customer_304,Corporate,East,113,7,2487.76,1,1,1,Hibernating / Lost
+CUST-0157,Customer_157,Consumer,Central,78,9,2623.35,2,1,1,Hibernating / Lost
+CUST-0693,Customer_693,Consumer,North,33,10,2714.14,3,2,1,Hibernating / Lost
+CUST-0547,Customer_547,Consumer,East,32,10,2726.1,3,2,1,Hibernating / Lost
+CUST-0696,Customer_696,Consumer,West,20,9,2741.59,4,1,1,Promising New
+CUST-0623,Customer_623,Home Office,East,7,10,2766.4,5,2,1,Promising New
+CUST-0609,Customer_609,Home Office,West,246,7,2779.36,1,1,1,Hibernating / Lost
+CUST-0524,Customer_524,Consumer,Central,223,7,2797.4,1,1,1,Hibernating / Lost
+CUST-0088,Customer_88,Consumer,West,1,8,2811.4,5,1,1,Promising New
+CUST-0532,Customer_532,Corporate,East,37,10,2829.14,3,2,1,Hibernating / Lost
+CUST-0099,Customer_99,Home Office,East,302,10,2843.41,1,2,1,Hibernating / Lost
+CUST-0768,Customer_768,Corporate,West,95,9,2883.71,1,1,1,Hibernating / Lost
+CUST-0490,Customer_490,Consumer,South,56,7,2908.27,2,1,1,Hibernating / Lost
+CUST-0216,Customer_216,Corporate,South,383,4,2973.51,1,1,1,Hibernating / Lost
+CUST-0423,Customer_423,Corporate,South,37,9,3076.54,3,1,1,Hibernating / Lost
+CUST-0370,Customer_370,Consumer,East,211,8,3085.11,1,1,1,Hibernating / Lost
+CUST-0036,Customer_36,Consumer,North,14,11,3086.96,4,2,1,Promising New
+CUST-0847,Customer_847,Home Office,South,8,7,3092.04,5,1,1,Promising New
+CUST-0419,Customer_419,Consumer,South,43,8,3123.72,3,1,1,Hibernating / Lost
+CUST-0468,Customer_468,Consumer,West,222,5,3167.48,1,1,1,Hibernating / Lost
+CUST-0019,Customer_19,Corporate,South,45,7,3168.42,3,1,1,Hibernating / Lost
+CUST-0795,Customer_795,Consumer,South,40,8,3183.66,3,1,1,Hibernating / Lost
+CUST-0606,Customer_606,Consumer,Central,86,12,3271.86,2,3,1,At-Risk Customers
+CUST-0060,Customer_60,Consumer,North,45,9,3327.73,3,1,1,Hibernating / Lost
+CUST-0790,Customer_790,Corporate,Central,71,9,3427.49,2,1,1,Hibernating / Lost
+CUST-0014,Customer_14,Corporate,East,10,9,3432.28,5,1,1,Promising New
+CUST-0590,Customer_590,Corporate,North,15,10,3449.86,4,2,1,Promising New
+CUST-0475,Customer_475,Consumer,West,37,11,3519.19,3,2,1,Hibernating / Lost
+CUST-0261,Customer_261,Home Office,Central,14,8,3520.77,4,1,1,Promising New
+CUST-0663,Customer_663,Corporate,South,34,11,3585.86,3,2,1,Hibernating / Lost
+CUST-0134,Customer_134,Home Office,Central,228,8,3600.03,1,1,1,Hibernating / Lost
+CUST-0111,Customer_111,Home Office,West,2,10,3615.89,5,1,1,Promising New
+CUST-0305,Customer_305,Corporate,North,6,7,3633.15,5,1,1,Promising New
+CUST-0035,Customer_35,Corporate,West,324,11,3645.88,1,3,1,At-Risk Customers
+CUST-0092,Customer_92,Corporate,Central,22,8,3647.95,4,1,1,Promising New
+CUST-0461,Customer_461,Consumer,West,89,8,3655.69,2,1,1,Hibernating / Lost
+CUST-0826,Customer_826,Corporate,Central,20,11,3683.28,4,2,1,Promising New
+CUST-0554,Customer_554,Corporate,Central,178,7,3731.32,1,1,1,Hibernating / Lost
+CUST-0218,Customer_218,Consumer,West,80,9,3794.63,2,1,1,Hibernating / Lost
+CUST-0587,Customer_587,Consumer,West,209,11,3867.31,1,3,1,At-Risk Customers
+CUST-0256,Customer_256,Home Office,West,26,12,3869.04,4,3,1,Hibernating / Lost
+CUST-0765,Customer_765,Consumer,North,26,10,3880.86,4,2,1,Promising New
+CUST-0406,Customer_406,Corporate,South,8,8,3892.49,5,1,1,Promising New
+CUST-0690,Customer_690,Corporate,South,54,15,3897.19,2,5,1,At-Risk Customers
+CUST-0438,Customer_438,Corporate,North,108,10,3907.4,1,2,1,Hibernating / Lost
+CUST-0625,Customer_625,Consumer,South,81,10,3914.96,2,2,1,Hibernating / Lost
+CUST-0108,Customer_108,Consumer,West,78,9,3920.01,2,1,1,Hibernating / Lost
+CUST-0306,Customer_306,Corporate,North,226,9,3928.5,1,1,1,Hibernating / Lost
+CUST-0789,Customer_789,Consumer,Central,58,8,3984.7,2,1,1,Hibernating / Lost
+CUST-0211,Customer_211,Consumer,West,5,10,3992.19,5,2,1,Promising New
+CUST-0574,Customer_574,Consumer,North,154,8,4111.8,1,1,1,Hibernating / Lost
+CUST-0445,Customer_445,Consumer,West,166,10,4118.27,1,2,1,Hibernating / Lost
+CUST-0185,Customer_185,Home Office,Central,119,8,4208.95,1,1,1,Hibernating / Lost
+CUST-0031,Customer_31,Consumer,South,33,7,4209.27,3,1,1,Hibernating / Lost
+CUST-0048,Customer_48,Home Office,South,123,12,4243.08,1,3,1,At-Risk Customers
+CUST-0284,Customer_284,Corporate,North,167,9,4256.54,1,1,1,Hibernating / Lost
+CUST-0797,Customer_797,Consumer,North,379,6,4421.22,1,1,1,Hibernating / Lost
+CUST-0365,Customer_365,Consumer,North,3,12,4425.6,5,3,1,Hibernating / Lost
+CUST-0828,Customer_828,Consumer,South,106,7,4435.66,1,1,1,Hibernating / Lost
+CUST-0086,Customer_86,Corporate,South,29,12,4462.17,4,3,1,Hibernating / Lost
+CUST-0764,Customer_764,Consumer,North,276,9,4484.74,1,1,1,Hibernating / Lost
+CUST-0394,Customer_394,Consumer,East,221,7,4551.34,1,1,1,Hibernating / Lost
+CUST-0147,Customer_147,Consumer,Central,31,8,4573.06,3,1,1,Hibernating / Lost
+CUST-0282,Customer_282,Consumer,West,6,10,4616.01,5,2,1,Promising New
+CUST-0665,Customer_665,Consumer,East,4,10,4676.12,5,2,1,Promising New
+CUST-0603,Customer_603,Consumer,North,210,8,4677.3,1,1,1,Hibernating / Lost
+CUST-0441,Customer_441,Corporate,West,1,12,4691.19,5,3,1,Hibernating / Lost
+CUST-0542,Customer_542,Corporate,West,10,11,4721.95,5,2,1,Promising New
+CUST-0155,Customer_155,Corporate,West,109,11,4805.53,1,3,1,At-Risk Customers
+CUST-0807,Customer_807,Corporate,West,23,13,4824.53,4,3,1,Hibernating / Lost
+CUST-0351,Customer_351,Home Office,East,5,10,4840.81,5,2,1,Promising New
+CUST-0240,Customer_240,Consumer,West,27,11,4851.2,4,2,1,Promising New
+CUST-0489,Customer_489,Consumer,East,125,6,4879.79,1,1,1,Hibernating / Lost
+CUST-0202,Customer_202,Consumer,South,39,9,4888.02,3,1,1,Hibernating / Lost
+CUST-0043,Customer_43,Consumer,North,92,8,4902.51,2,1,1,Hibernating / Lost
+CUST-0652,Customer_652,Consumer,South,21,10,4929.77,4,2,1,Promising New
+CUST-0395,Customer_395,Consumer,South,28,12,4954.03,4,3,1,Hibernating / Lost
+CUST-0570,Customer_570,Corporate,East,7,16,4956.82,5,5,1,Champions (High Value)
+CUST-0563,Customer_563,Consumer,Central,33,10,4965.22,3,2,1,Hibernating / Lost
+CUST-0602,Customer_602,Consumer,North,6,10,5016.72,5,2,1,Promising New
+CUST-0682,Customer_682,Consumer,Central,66,12,5024.52,2,3,1,At-Risk Customers
+CUST-0003,Customer_3,Consumer,East,10,11,5033.15,5,2,1,Promising New
+CUST-0153,Customer_153,Corporate,West,73,12,5038.26,2,3,1,At-Risk Customers
+CUST-0349,Customer_349,Corporate,West,13,8,5124.2,4,1,1,Promising New
+CUST-0113,Customer_113,Consumer,South,178,6,5126.81,1,1,1,Hibernating / Lost
+CUST-0160,Customer_160,Corporate,East,241,5,5131.46,1,1,1,Hibernating / Lost
+CUST-0820,Customer_820,Consumer,West,22,11,5135.88,4,2,1,Promising New
+CUST-0472,Customer_472,Corporate,North,36,8,5163.86,3,1,1,Hibernating / Lost
+CUST-0018,Customer_18,Consumer,South,136,10,5178.25,1,2,1,Hibernating / Lost
+CUST-0369,Customer_369,Consumer,South,117,9,5183.45,1,1,1,Hibernating / Lost
+CUST-0295,Customer_295,Corporate,East,45,11,5190.73,3,2,1,Hibernating / Lost
+CUST-0075,Customer_75,Corporate,South,6,11,5190.74,5,2,1,Promising New
+CUST-0829,Customer_829,Consumer,North,337,7,5205.08,1,1,1,Hibernating / Lost
+CUST-0007,Customer_7,Consumer,North,24,10,5228.98,4,2,1,Promising New
+CUST-0172,Customer_172,Corporate,North,264,10,5241.37,1,2,1,Hibernating / Lost
+CUST-0327,Customer_327,Corporate,Central,36,6,5250.83,3,1,1,Hibernating / Lost
+CUST-0681,Customer_681,Consumer,North,267,9,5270.61,1,1,1,Hibernating / Lost
+CUST-0769,Customer_769,Home Office,North,271,9,5283.94,1,1,1,Hibernating / Lost
+CUST-0496,Customer_496,Corporate,North,25,11,5295.78,4,2,1,Promising New
+CUST-0285,Customer_285,Consumer,North,12,11,5304.79,5,2,1,Promising New
+CUST-0197,Customer_197,Home Office,East,1,11,5308.79,5,2,1,Promising New
+CUST-0232,Customer_232,Consumer,Central,32,7,5310.8,3,1,1,Hibernating / Lost
+CUST-0786,Customer_786,Corporate,West,121,6,5334.37,1,1,1,Hibernating / Lost
+CUST-0674,Customer_674,Home Office,East,50,12,5341.91,3,3,1,Hibernating / Lost
+CUST-0225,Customer_225,Consumer,South,78,11,5358.64,2,2,1,Hibernating / Lost
+CUST-0028,Customer_28,Consumer,West,12,8,5374.44,5,1,1,Promising New
+CUST-0488,Customer_488,Home Office,North,28,7,5399.85,4,1,1,Promising New
+CUST-0429,Customer_429,Corporate,South,9,13,5403.18,5,3,1,Hibernating / Lost
+CUST-0057,Customer_57,Consumer,East,1,8,5411.86,5,1,1,Promising New
+CUST-0794,Customer_794,Consumer,South,77,10,5415.01,2,2,1,Hibernating / Lost
+CUST-0576,Customer_576,Consumer,North,25,10,5415.09,4,2,1,Promising New
+CUST-0757,Customer_757,Consumer,West,194,8,5416.33,1,1,1,Hibernating / Lost
+CUST-0402,Customer_402,Corporate,North,128,11,5446.36,1,3,1,At-Risk Customers
+CUST-0462,Customer_462,Consumer,South,65,11,5450.98,2,2,1,Hibernating / Lost
+CUST-0296,Customer_296,Consumer,South,109,12,5457.88,1,3,1,At-Risk Customers
+CUST-0260,Customer_260,Corporate,West,30,13,5458.73,3,3,1,Hibernating / Lost
+CUST-0146,Customer_146,Corporate,East,35,9,5460.8,3,1,1,Hibernating / Lost
+CUST-0440,Customer_440,Home Office,West,55,6,5469.62,2,1,1,Hibernating / Lost
+CUST-0297,Customer_297,Consumer,West,32,10,5485.68,3,2,1,Hibernating / Lost
+CUST-0401,Customer_401,Corporate,Central,95,13,5507.72,1,4,1,At-Risk Customers
+CUST-0673,Customer_673,Consumer,East,41,11,5512.95,3,2,1,Hibernating / Lost
+CUST-0380,Customer_380,Home Office,South,113,12,5529.04,1,3,1,At-Risk Customers
+CUST-0083,Customer_83,Corporate,Central,131,6,5560.21,1,1,1,Hibernating / Lost
+CUST-0091,Customer_91,Corporate,East,128,6,5570.32,1,1,1,Hibernating / Lost
+CUST-0783,Customer_783,Corporate,South,80,12,5573.06,2,3,1,At-Risk Customers
+CUST-0098,Customer_98,Consumer,Central,60,10,5578.65,2,2,1,Hibernating / Lost
+CUST-0042,Customer_42,Corporate,East,27,10,5588.58,4,2,1,Promising New
+CUST-0724,Customer_724,Home Office,East,47,10,5598.39,3,2,1,Hibernating / Lost
+CUST-0627,Customer_627,Consumer,South,87,9,5643.13,2,1,1,Hibernating / Lost
+CUST-0159,Customer_159,Home Office,North,141,13,5669.75,1,4,1,At-Risk Customers
+CUST-0187,Customer_187,Corporate,North,7,14,5670.62,5,4,1,Champions (High Value)
+CUST-0736,Customer_736,Consumer,West,12,13,5680.87,5,3,1,Hibernating / Lost
+CUST-0053,Customer_53,Corporate,North,153,10,5687.41,1,2,1,Hibernating / Lost
+CUST-0164,Customer_164,Corporate,West,232,9,5690.05,1,1,1,Hibernating / Lost
+CUST-0204,Customer_204,Home Office,West,40,11,5692.83,3,2,1,Hibernating / Lost
+CUST-0016,Customer_16,Consumer,South,150,10,5693.37,1,2,1,Hibernating / Lost
+CUST-0122,Customer_122,Consumer,East,74,9,5698.37,2,1,1,Hibernating / Lost
+CUST-0119,Customer_119,Consumer,West,67,11,5705.12,2,2,1,Hibernating / Lost
+CUST-0398,Customer_398,Corporate,Central,83,8,5707.98,2,1,1,Hibernating / Lost
+CUST-0341,Customer_341,Consumer,Central,19,8,5722.16,4,1,1,Promising New
+CUST-0750,Customer_750,Corporate,South,12,11,5730.55,5,2,1,Promising New
+CUST-0516,Customer_516,Consumer,North,58,12,5749.71,2,3,1,At-Risk Customers
+CUST-0276,Customer_276,Corporate,East,230,7,5759.13,1,1,1,Hibernating / Lost
+CUST-0027,Customer_27,Consumer,West,45,13,5792.74,3,4,1,Hibernating / Lost
+CUST-0575,Customer_575,Home Office,North,131,10,5844.39,1,2,1,Hibernating / Lost
+CUST-0200,Customer_200,Home Office,West,29,10,5874.45,4,2,1,Promising New
+CUST-0592,Customer_592,Consumer,South,5,10,5895.75,5,2,1,Promising New
+CUST-0171,Customer_171,Consumer,South,53,5,5927.96,2,1,1,Hibernating / Lost
+CUST-0410,Customer_410,Consumer,West,113,8,5958.52,1,1,1,Hibernating / Lost
+CUST-0695,Customer_695,Home Office,West,129,9,5969.03,1,1,1,Hibernating / Lost
+CUST-0178,Customer_178,Corporate,Central,109,11,5970.87,1,3,1,At-Risk Customers
+CUST-0754,Customer_754,Corporate,South,30,12,5973.19,3,3,1,Hibernating / Lost
+CUST-0561,Customer_561,Consumer,West,0,4,5981.82,5,1,1,Promising New
+CUST-0702,Customer_702,Corporate,North,1,12,5984.59,5,3,1,Hibernating / Lost
+CUST-0321,Customer_321,Home Office,South,12,15,5984.7,5,4,2,Champions (High Value)
+CUST-0196,Customer_196,Corporate,South,86,8,5985.78,2,1,2,Hibernating / Lost
+CUST-0512,Customer_512,Consumer,West,46,9,5997.28,3,1,2,Hibernating / Lost
+CUST-0257,Customer_257,Consumer,Central,49,16,6007.92,3,5,2,Hibernating / Lost
+CUST-0731,Customer_731,Consumer,West,9,10,6009.19,5,2,2,Promising New
+CUST-0708,Customer_708,Consumer,North,158,10,6017.94,1,2,2,Hibernating / Lost
+CUST-0412,Customer_412,Home Office,East,117,14,6026.86,1,4,2,At-Risk Customers
+CUST-0700,Customer_700,Corporate,West,65,8,6028.03,2,1,2,Hibernating / Lost
+CUST-0676,Customer_676,Consumer,West,70,10,6055.67,2,2,2,Hibernating / Lost
+CUST-0074,Customer_74,Corporate,Central,43,9,6065.9,3,1,2,Hibernating / Lost
+CUST-0549,Customer_549,Consumer,Central,190,11,6084.96,1,3,2,At-Risk Customers
+CUST-0815,Customer_815,Home Office,East,32,11,6105.78,3,2,2,Hibernating / Lost
+CUST-0354,Customer_354,Home Office,West,41,10,6129.92,3,2,2,Hibernating / Lost
+CUST-0503,Customer_503,Corporate,South,1,11,6164.08,5,2,2,Promising New
+CUST-0656,Customer_656,Consumer,South,75,6,6186.94,2,1,2,Hibernating / Lost
+CUST-0227,Customer_227,Consumer,East,68,12,6193.43,2,3,2,At-Risk Customers
+CUST-0477,Customer_477,Consumer,East,95,7,6199.03,1,1,2,Hibernating / Lost
+CUST-0443,Customer_443,Home Office,North,23,11,6224.73,4,2,2,Promising New
+CUST-0179,Customer_179,Consumer,West,78,8,6231.32,2,1,2,Hibernating / Lost
+CUST-0291,Customer_291,Corporate,East,86,9,6245.96,2,1,2,Hibernating / Lost
+CUST-0049,Customer_49,Consumer,East,20,18,6250.88,4,5,2,Champions (High Value)
+CUST-0639,Customer_639,Consumer,West,151,9,6265.48,1,1,2,Hibernating / Lost
+CUST-0582,Customer_582,Consumer,West,12,10,6270.78,5,2,2,Promising New
+CUST-0315,Customer_315,Corporate,East,40,10,6287.04,3,2,2,Hibernating / Lost
+CUST-0707,Customer_707,Consumer,Central,225,15,6291.15,1,5,2,At-Risk Customers
+CUST-0812,Customer_812,Home Office,East,27,13,6297.35,4,3,2,Hibernating / Lost
+CUST-0567,Customer_567,Consumer,Central,44,15,6299.95,3,4,2,Hibernating / Lost
+CUST-0528,Customer_528,Corporate,East,3,10,6303.4,5,1,2,Promising New
+CUST-0680,Customer_680,Consumer,South,8,9,6304.2,5,1,2,Promising New
+CUST-0778,Customer_778,Consumer,West,16,7,6313.17,4,1,2,Promising New
+CUST-0487,Customer_487,Consumer,South,1,14,6321.08,5,4,2,Champions (High Value)
+CUST-0648,Customer_648,Consumer,West,88,10,6367.11,2,2,2,Hibernating / Lost
+CUST-0103,Customer_103,Home Office,East,50,15,6383.43,3,5,2,Hibernating / Lost
+CUST-0449,Customer_449,Consumer,North,67,9,6412.92,2,1,2,Hibernating / Lost
+CUST-0598,Customer_598,Home Office,South,12,14,6416.5,5,4,2,Champions (High Value)
+CUST-0193,Customer_193,Corporate,West,173,16,6439.67,1,5,2,At-Risk Customers
+CUST-0324,Customer_324,Consumer,South,96,12,6454.76,1,3,2,At-Risk Customers
+CUST-0711,Customer_711,Consumer,West,8,15,6457.28,5,4,2,Champions (High Value)
+CUST-0814,Customer_814,Corporate,West,19,10,6479.02,4,2,2,Promising New
+CUST-0643,Customer_643,Consumer,North,12,9,6498.51,5,1,2,Promising New
+CUST-0460,Customer_460,Home Office,North,127,11,6540.07,1,3,2,At-Risk Customers
+CUST-0518,Customer_518,Corporate,East,43,10,6545.86,3,2,2,Hibernating / Lost
+CUST-0250,Customer_250,Consumer,Central,11,11,6546.45,5,2,2,Promising New
+CUST-0735,Customer_735,Consumer,South,49,8,6553.59,3,1,2,Hibernating / Lost
+CUST-0181,Customer_181,Corporate,South,15,18,6573.49,4,5,2,Champions (High Value)
+CUST-0446,Customer_446,Consumer,West,1,12,6575.29,5,3,2,Hibernating / Lost
+CUST-0544,Customer_544,Consumer,East,88,8,6583.82,2,1,2,Hibernating / Lost
+CUST-0125,Customer_125,Corporate,Central,241,10,6585.75,1,2,2,Hibernating / Lost
+CUST-0209,Customer_209,Consumer,West,164,11,6598.62,1,3,2,At-Risk Customers
+CUST-0011,Customer_11,Consumer,North,13,16,6617.53,4,5,2,Champions (High Value)
+CUST-0363,Customer_363,Consumer,South,5,11,6625.31,5,2,2,Promising New
+CUST-0055,Customer_55,Corporate,East,53,12,6634.62,2,3,2,At-Risk Customers
+CUST-0066,Customer_66,Consumer,East,29,14,6634.7,4,4,2,Champions (High Value)
+CUST-0165,Customer_165,Home Office,East,20,13,6640.82,4,3,2,Hibernating / Lost
+CUST-0182,Customer_182,Home Office,East,61,17,6699.72,2,5,2,At-Risk Customers
+CUST-0494,Customer_494,Consumer,North,134,11,6702.83,1,3,2,At-Risk Customers
+CUST-0447,Customer_447,Consumer,East,68,10,6738.06,2,2,2,Hibernating / Lost
+CUST-0792,Customer_792,Consumer,East,55,10,6738.33,2,2,2,Hibernating / Lost
+CUST-0621,Customer_621,Corporate,North,5,13,6738.59,5,3,2,Hibernating / Lost
+CUST-0348,Customer_348,Consumer,Central,97,11,6739.71,1,3,2,At-Risk Customers
+CUST-0129,Customer_129,Corporate,South,43,11,6760.03,3,2,2,Hibernating / Lost
+CUST-0186,Customer_186,Consumer,Central,39,13,6779.84,3,4,2,Hibernating / Lost
+CUST-0617,Customer_617,Corporate,West,23,12,6786.16,4,3,2,Hibernating / Lost
+CUST-0809,Customer_809,Corporate,West,13,15,6790.66,5,4,2,Champions (High Value)
+CUST-0755,Customer_755,Consumer,East,103,8,6798.72,1,1,2,Hibernating / Lost
+CUST-0655,Customer_655,Corporate,East,84,14,6803.51,2,4,2,At-Risk Customers
+CUST-0258,Customer_258,Corporate,North,72,10,6809.74,2,2,2,Hibernating / Lost
+CUST-0364,Customer_364,Corporate,Central,68,10,6814.77,2,2,2,Hibernating / Lost
+CUST-0071,Customer_71,Consumer,Central,129,10,6826.83,1,2,2,Hibernating / Lost
+CUST-0236,Customer_236,Corporate,East,166,10,6840.61,1,2,2,Hibernating / Lost
+CUST-0421,Customer_421,Consumer,East,14,13,6864.23,4,3,2,Hibernating / Lost
+CUST-0552,Customer_552,Consumer,East,31,12,6871.25,3,3,2,Hibernating / Lost
+CUST-0020,Customer_20,Consumer,West,17,14,6899.66,4,4,2,Champions (High Value)
+CUST-0374,Customer_374,Consumer,North,120,8,6911.51,1,1,2,Hibernating / Lost
+CUST-0734,Customer_734,Home Office,West,75,12,6931.48,2,3,2,At-Risk Customers
+CUST-0805,Customer_805,Corporate,North,127,10,6977.07,1,2,2,Hibernating / Lost
+CUST-0684,Customer_684,Consumer,Central,29,10,6979.8,4,2,2,Promising New
+CUST-0009,Customer_9,Consumer,South,1,16,6990.08,5,5,2,Champions (High Value)
+CUST-0338,Customer_338,Consumer,East,7,16,6995.33,5,5,2,Champions (High Value)
+CUST-0106,Customer_106,Consumer,East,67,14,7001.59,2,4,2,At-Risk Customers
+CUST-0796,Customer_796,Consumer,North,2,10,7002.03,5,1,2,Promising New
+CUST-0537,Customer_537,Home Office,East,87,13,7011.4,2,4,2,At-Risk Customers
+CUST-0317,Customer_317,Home Office,Central,19,13,7019.63,4,3,2,Hibernating / Lost
+CUST-0417,Customer_417,Corporate,North,45,12,7020.0,3,3,2,Hibernating / Lost
+CUST-0139,Customer_139,Consumer,South,19,10,7039.29,4,2,2,Promising New
+CUST-0577,Customer_577,Home Office,North,21,10,7044.64,4,2,2,Promising New
+CUST-0054,Customer_54,Consumer,East,80,12,7055.08,2,3,2,At-Risk Customers
+CUST-0224,Customer_224,Consumer,South,16,13,7057.01,4,3,2,Hibernating / Lost
+CUST-0624,Customer_624,Corporate,South,70,10,7064.38,2,2,2,Hibernating / Lost
+CUST-0615,Customer_615,Consumer,South,27,8,7073.02,4,1,2,Promising New
+CUST-0596,Customer_596,Home Office,South,2,17,7101.48,5,5,2,Champions (High Value)
+CUST-0752,Customer_752,Corporate,South,26,14,7170.46,4,4,2,Champions (High Value)
+CUST-0777,Customer_777,Home Office,South,99,11,7173.02,1,3,2,At-Risk Customers
+CUST-0485,Customer_485,Consumer,South,55,15,7176.0,2,5,2,At-Risk Customers
+CUST-0168,Customer_168,Corporate,North,19,10,7192.28,4,2,2,Promising New
+CUST-0056,Customer_56,Consumer,Central,8,10,7212.47,5,2,2,Promising New
+CUST-0586,Customer_586,Corporate,South,11,11,7213.24,5,2,2,Promising New
+CUST-0457,Customer_457,Consumer,East,8,7,7224.08,5,1,2,Promising New
+CUST-0511,Customer_511,Consumer,North,23,12,7232.77,4,3,2,Hibernating / Lost
+CUST-0376,Customer_376,Consumer,North,112,13,7234.99,1,4,2,At-Risk Customers
+CUST-0409,Customer_409,Corporate,South,63,13,7248.06,2,4,2,At-Risk Customers
+CUST-0262,Customer_262,Consumer,North,173,8,7256.27,1,1,2,Hibernating / Lost
+CUST-0620,Customer_620,Home Office,North,10,16,7293.28,5,5,2,Champions (High Value)
+CUST-0190,Customer_190,Consumer,South,94,13,7314.03,1,4,2,At-Risk Customers
+CUST-0668,Customer_668,Corporate,South,98,10,7333.76,1,2,2,Hibernating / Lost
+CUST-0316,Customer_316,Corporate,South,114,14,7338.19,1,4,2,At-Risk Customers
+CUST-0827,Customer_827,Home Office,North,30,14,7351.24,3,4,2,Hibernating / Lost
+CUST-0733,Customer_733,Corporate,East,77,12,7358.62,2,3,2,At-Risk Customers
+CUST-0013,Customer_13,Consumer,West,69,13,7372.07,2,4,2,At-Risk Customers
+CUST-0662,Customer_662,Corporate,North,94,13,7373.49,1,4,2,At-Risk Customers
+CUST-0067,Customer_67,Consumer,East,63,12,7387.88,2,3,2,At-Risk Customers
+CUST-0059,Customer_59,Consumer,North,64,13,7423.72,2,4,2,At-Risk Customers
+CUST-0222,Customer_222,Home Office,North,48,9,7449.23,3,1,2,Hibernating / Lost
+CUST-0666,Customer_666,Corporate,North,28,11,7450.95,4,2,2,Promising New
+CUST-0469,Customer_469,Consumer,East,67,8,7451.21,2,1,2,Hibernating / Lost
+CUST-0804,Customer_804,Consumer,North,15,13,7454.85,4,3,2,Hibernating / Lost
+CUST-0525,Customer_525,Consumer,South,23,14,7466.56,4,4,2,Champions (High Value)
+CUST-0058,Customer_58,Home Office,South,142,8,7469.96,1,1,2,Hibernating / Lost
+CUST-0519,Customer_519,Corporate,East,74,17,7474.45,2,5,2,At-Risk Customers
+CUST-0458,Customer_458,Corporate,East,18,14,7482.19,4,4,2,Champions (High Value)
+CUST-0243,Customer_243,Corporate,West,8,10,7484.64,5,2,2,Promising New
+CUST-0175,Customer_175,Consumer,South,84,8,7493.26,2,1,2,Hibernating / Lost
+CUST-0509,Customer_509,Consumer,North,84,11,7494.52,2,3,2,At-Risk Customers
+CUST-0433,Customer_433,Consumer,East,6,13,7499.68,5,3,2,Hibernating / Lost
+CUST-0482,Customer_482,Home Office,East,44,14,7505.89,3,4,2,Hibernating / Lost
+CUST-0779,Customer_779,Consumer,East,75,9,7514.42,2,1,2,Hibernating / Lost
+CUST-0300,Customer_300,Consumer,East,151,9,7518.25,1,1,2,Hibernating / Lost
+CUST-0849,Customer_849,Corporate,Central,4,16,7528.57,5,5,2,Champions (High Value)
+CUST-0006,Customer_6,Consumer,Central,62,10,7541.05,2,2,2,Hibernating / Lost
+CUST-0045,Customer_45,Consumer,Central,53,15,7541.3,2,5,2,At-Risk Customers
+CUST-0594,Customer_594,Consumer,West,34,14,7561.28,3,4,2,Hibernating / Lost
+CUST-0093,Customer_93,Consumer,North,126,10,7579.2,1,2,2,Hibernating / Lost
+CUST-0385,Customer_385,Consumer,East,31,13,7591.9,3,3,2,Hibernating / Lost
+CUST-0844,Customer_844,Consumer,East,268,8,7604.21,1,1,2,Hibernating / Lost
+CUST-0131,Customer_131,Home Office,North,28,14,7619.62,4,4,2,Champions (High Value)
+CUST-0032,Customer_32,Home Office,West,89,11,7626.9,2,3,2,At-Risk Customers
+CUST-0068,Customer_68,Corporate,North,46,13,7627.57,3,4,2,Hibernating / Lost
+CUST-0626,Customer_626,Consumer,East,50,14,7651.1,3,4,2,Hibernating / Lost
+CUST-0597,Customer_597,Consumer,Central,40,12,7656.62,3,3,2,Hibernating / Lost
+CUST-0772,Customer_772,Consumer,West,44,12,7661.89,3,3,2,Hibernating / Lost
+CUST-0557,Customer_557,Corporate,East,23,13,7691.61,4,3,2,Hibernating / Lost
+CUST-0051,Customer_51,Corporate,West,56,13,7708.61,2,4,2,At-Risk Customers
+CUST-0333,Customer_333,Consumer,North,45,9,7713.54,3,1,2,Hibernating / Lost
+CUST-0740,Customer_740,Corporate,East,8,13,7716.23,5,3,2,Hibernating / Lost
+CUST-0562,Customer_562,Corporate,North,15,16,7725.08,4,5,2,Champions (High Value)
+CUST-0023,Customer_23,Consumer,North,158,8,7727.28,1,1,2,Hibernating / Lost
+CUST-0415,Customer_415,Consumer,South,39,12,7744.13,3,3,2,Hibernating / Lost
+CUST-0555,Customer_555,Consumer,South,6,14,7801.2,5,4,2,Champions (High Value)
+CUST-0610,Customer_610,Consumer,North,9,9,7827.68,5,1,2,Promising New
+CUST-0573,Customer_573,Corporate,North,34,12,7831.75,3,3,2,Hibernating / Lost
+CUST-0336,Customer_336,Consumer,East,191,8,7832.84,1,1,2,Hibernating / Lost
+CUST-0498,Customer_498,Home Office,West,29,8,7840.89,4,1,2,Promising New
+CUST-0571,Customer_571,Consumer,Central,37,11,7874.69,3,2,2,Hibernating / Lost
+CUST-0005,Customer_5,Consumer,East,5,11,7875.7,5,2,2,Promising New
+CUST-0836,Customer_836,Corporate,North,25,8,7898.97,4,1,2,Promising New
+CUST-0174,Customer_174,Consumer,East,47,11,7933.7,3,2,2,Hibernating / Lost
+CUST-0742,Customer_742,Home Office,North,9,12,7950.84,5,3,2,Hibernating / Lost
+CUST-0176,Customer_176,Consumer,North,24,13,7961.0,4,3,2,Hibernating / Lost
+CUST-0065,Customer_65,Corporate,East,137,12,7986.91,1,3,2,At-Risk Customers
+CUST-0233,Customer_233,Home Office,North,97,10,7998.71,1,2,2,Hibernating / Lost
+CUST-0312,Customer_312,Corporate,Central,235,8,8022.13,1,1,2,Hibernating / Lost
+CUST-0822,Customer_822,Corporate,South,33,11,8030.6,3,2,2,Hibernating / Lost
+CUST-0842,Customer_842,Consumer,South,34,11,8049.8,3,2,2,Hibernating / Lost
+CUST-0585,Customer_585,Corporate,Central,22,18,8055.89,4,5,2,Champions (High Value)
+CUST-0238,Customer_238,Consumer,South,110,12,8071.3,1,3,2,At-Risk Customers
+CUST-0400,Customer_400,Consumer,North,17,13,8075.89,4,3,2,Hibernating / Lost
+CUST-0687,Customer_687,Consumer,North,96,12,8092.01,1,3,2,At-Risk Customers
+CUST-0371,Customer_371,Corporate,East,11,13,8095.99,5,3,2,Hibernating / Lost
+CUST-0302,Customer_302,Consumer,East,30,14,8110.73,3,4,2,Hibernating / Lost
+CUST-0246,Customer_246,Consumer,East,107,11,8118.33,1,3,2,At-Risk Customers
+CUST-0749,Customer_749,Corporate,West,35,13,8122.2,3,4,3,Loyal Customers
+CUST-0124,Customer_124,Corporate,South,65,12,8129.23,2,3,3,Loyal Customers
+CUST-0497,Customer_497,Consumer,West,50,11,8142.26,3,2,3,Hibernating / Lost
+CUST-0667,Customer_667,Consumer,South,46,13,8143.18,3,4,3,Loyal Customers
+CUST-0435,Customer_435,Consumer,East,184,9,8177.06,1,1,3,Hibernating / Lost
+CUST-0712,Customer_712,Consumer,East,79,14,8181.51,2,4,3,Loyal Customers
+CUST-0252,Customer_252,Home Office,Central,3,8,8181.91,5,1,3,Promising New
+CUST-0632,Customer_632,Consumer,West,49,12,8199.37,3,3,3,Loyal Customers
+CUST-0189,Customer_189,Home Office,West,57,16,8206.2,2,5,3,Loyal Customers
+CUST-0265,Customer_265,Corporate,East,21,12,8209.02,4,3,3,Loyal Customers
+CUST-0310,Customer_310,Consumer,South,24,8,8215.84,4,1,3,Promising New
+CUST-0599,Customer_599,Home Office,Central,74,13,8240.86,2,4,3,Loyal Customers
+CUST-0761,Customer_761,Corporate,North,9,13,8241.32,5,3,3,Loyal Customers
+CUST-0308,Customer_308,Corporate,North,4,15,8265.59,5,4,3,Champions (High Value)
+CUST-0455,Customer_455,Consumer,South,14,13,8274.75,4,3,3,Loyal Customers
+CUST-0738,Customer_738,Corporate,Central,16,14,8276.19,4,4,3,Champions (High Value)
+CUST-0104,Customer_104,Home Office,South,43,13,8277.47,3,4,3,Loyal Customers
+CUST-0467,Customer_467,Consumer,Central,24,15,8282.16,4,4,3,Champions (High Value)
+CUST-0076,Customer_76,Home Office,Central,18,10,8286.81,4,2,3,Promising New
+CUST-0138,Customer_138,Corporate,East,21,12,8333.3,4,3,3,Loyal Customers
+CUST-0459,Customer_459,Consumer,South,235,12,8370.39,1,3,3,Loyal Customers
+CUST-0816,Customer_816,Consumer,West,33,10,8370.56,3,2,3,Hibernating / Lost
+CUST-0206,Customer_206,Consumer,West,50,14,8373.49,3,4,3,Loyal Customers
+CUST-0112,Customer_112,Home Office,South,25,13,8378.2,4,3,3,Loyal Customers
+CUST-0163,Customer_163,Corporate,South,92,14,8379.46,2,4,3,Loyal Customers
+CUST-0631,Customer_631,Home Office,East,8,13,8402.5,5,3,3,Loyal Customers
+CUST-0191,Customer_191,Home Office,North,9,14,8406.76,5,4,3,Champions (High Value)
+CUST-0850,Customer_850,Consumer,South,29,13,8426.72,4,3,3,Loyal Customers
+CUST-0375,Customer_375,Consumer,South,94,12,8443.13,1,3,3,Loyal Customers
+CUST-0500,Customer_500,Corporate,Central,46,8,8444.83,3,1,3,Hibernating / Lost
+CUST-0691,Customer_691,Consumer,West,108,12,8446.15,1,3,3,Loyal Customers
+CUST-0776,Customer_776,Home Office,East,96,10,8475.03,1,2,3,Hibernating / Lost
+CUST-0192,Customer_192,Consumer,South,316,9,8507.38,1,1,3,Hibernating / Lost
+CUST-0008,Customer_8,Consumer,West,30,12,8520.98,3,3,3,Loyal Customers
+CUST-0411,Customer_411,Home Office,South,64,9,8527.23,2,1,3,Hibernating / Lost
+CUST-0201,Customer_201,Corporate,North,18,12,8544.06,4,3,3,Loyal Customers
+CUST-0636,Customer_636,Consumer,North,19,15,8555.81,4,4,3,Champions (High Value)
+CUST-0635,Customer_635,Corporate,South,216,9,8582.25,1,1,3,Hibernating / Lost
+CUST-0207,Customer_207,Consumer,South,24,16,8617.51,4,5,3,Champions (High Value)
+CUST-0846,Customer_846,Consumer,South,12,11,8623.89,5,2,3,Promising New
+CUST-0264,Customer_264,Consumer,South,116,9,8623.98,1,1,3,Hibernating / Lost
+CUST-0358,Customer_358,Consumer,North,22,11,8631.5,4,2,3,Promising New
+CUST-0274,Customer_274,Home Office,West,73,12,8634.26,2,3,3,Loyal Customers
+CUST-0156,Customer_156,Home Office,West,273,12,8639.1,1,3,3,Loyal Customers
+CUST-0595,Customer_595,Consumer,West,33,13,8639.57,3,3,3,Loyal Customers
+CUST-0041,Customer_41,Consumer,North,52,13,8676.54,3,4,3,Loyal Customers
+CUST-0758,Customer_758,Corporate,North,20,9,8686.74,4,1,3,Promising New
+CUST-0715,Customer_715,Corporate,West,64,13,8709.38,2,4,3,Loyal Customers
+CUST-0052,Customer_52,Consumer,East,9,16,8715.86,5,5,3,Champions (High Value)
+CUST-0564,Customer_564,Corporate,South,12,8,8779.55,5,1,3,Promising New
+CUST-0781,Customer_781,Consumer,South,50,13,8785.44,3,4,3,Loyal Customers
+CUST-0280,Customer_280,Corporate,East,126,8,8795.75,1,1,3,Hibernating / Lost
+CUST-0551,Customer_551,Consumer,East,33,11,8797.77,3,2,3,Hibernating / Lost
+CUST-0332,Customer_332,Consumer,North,90,13,8799.88,2,4,3,Loyal Customers
+CUST-0506,Customer_506,Corporate,East,13,16,8807.95,5,5,3,Champions (High Value)
+CUST-0266,Customer_266,Corporate,West,113,13,8808.72,1,4,3,Loyal Customers
+CUST-0330,Customer_330,Corporate,West,68,17,8844.36,2,5,3,Loyal Customers
+CUST-0183,Customer_183,Consumer,East,49,11,8854.63,3,2,3,Hibernating / Lost
+CUST-0313,Customer_313,Home Office,North,9,11,8881.42,5,2,3,Promising New
+CUST-0226,Customer_226,Corporate,West,1,10,8888.57,5,1,3,Promising New
+CUST-0452,Customer_452,Corporate,West,37,10,8893.91,3,2,3,Hibernating / Lost
+CUST-0082,Customer_82,Consumer,East,46,11,8899.01,3,2,3,Hibernating / Lost
+CUST-0010,Customer_10,Consumer,East,46,11,8909.09,3,2,3,Hibernating / Lost
+CUST-0565,Customer_565,Consumer,North,5,11,8911.89,5,2,3,Promising New
+CUST-0741,Customer_741,Consumer,East,85,15,8933.87,2,5,3,Loyal Customers
+CUST-0686,Customer_686,Consumer,West,54,16,8972.84,2,5,3,Loyal Customers
+CUST-0277,Customer_277,Consumer,South,18,15,8977.28,4,4,3,Champions (High Value)
+CUST-0070,Customer_70,Consumer,North,64,11,8984.68,2,2,3,Hibernating / Lost
+CUST-0325,Customer_325,Corporate,East,8,13,8994.23,5,3,3,Loyal Customers
+CUST-0130,Customer_130,Home Office,North,9,12,9020.38,5,3,3,Loyal Customers
+CUST-0766,Customer_766,Consumer,South,52,14,9036.01,3,4,3,Loyal Customers
+CUST-0727,Customer_727,Corporate,Central,17,19,9042.71,4,5,3,Champions (High Value)
+CUST-0818,Customer_818,Corporate,South,4,10,9045.05,5,2,3,Promising New
+CUST-0195,Customer_195,Consumer,North,81,11,9068.16,2,3,3,Loyal Customers
+CUST-0235,Customer_235,Consumer,North,2,11,9076.39,5,2,3,Promising New
+CUST-0228,Customer_228,Corporate,North,1,14,9092.96,5,4,3,Champions (High Value)
+CUST-0694,Customer_694,Consumer,North,101,10,9100.08,1,2,3,Hibernating / Lost
+CUST-0029,Customer_29,Corporate,East,89,12,9100.38,2,3,3,Loyal Customers
+CUST-0704,Customer_704,Corporate,North,43,9,9112.03,3,1,3,Hibernating / Lost
+CUST-0451,Customer_451,Consumer,North,78,11,9122.79,2,3,3,Loyal Customers
+CUST-0670,Customer_670,Consumer,South,11,14,9172.0,5,4,3,Champions (High Value)
+CUST-0422,Customer_422,Home Office,North,15,20,9178.54,4,5,3,Champions (High Value)
+CUST-0345,Customer_345,Consumer,West,24,14,9182.91,4,4,3,Champions (High Value)
+CUST-0026,Customer_26,Corporate,South,28,12,9193.5,4,3,3,Loyal Customers
+CUST-0642,Customer_642,Consumer,East,1,12,9195.23,5,3,3,Loyal Customers
+CUST-0479,Customer_479,Corporate,East,12,12,9202.75,5,3,3,Loyal Customers
+CUST-0495,Customer_495,Home Office,West,4,17,9249.62,5,5,3,Champions (High Value)
+CUST-0326,Customer_326,Corporate,East,88,15,9260.12,2,5,3,Loyal Customers
+CUST-0833,Customer_833,Consumer,West,55,12,9270.36,2,3,3,Loyal Customers
+CUST-0763,Customer_763,Home Office,North,19,15,9274.23,4,4,3,Champions (High Value)
+CUST-0760,Customer_760,Consumer,East,20,13,9284.62,4,3,3,Loyal Customers
+CUST-0416,Customer_416,Corporate,West,50,16,9284.77,3,5,3,Loyal Customers
+CUST-0710,Customer_710,Home Office,Central,36,13,9287.87,3,4,3,Loyal Customers
+CUST-0679,Customer_679,Corporate,South,143,9,9338.16,1,1,3,Hibernating / Lost
+CUST-0339,Customer_339,Consumer,East,3,12,9346.41,5,3,3,Loyal Customers
+CUST-0199,Customer_199,Consumer,Central,16,10,9364.52,4,2,3,Promising New
+CUST-0705,Customer_705,Consumer,West,18,12,9365.09,4,3,3,Loyal Customers
+CUST-0079,Customer_79,Corporate,North,32,12,9381.47,3,3,3,Loyal Customers
+CUST-0245,Customer_245,Consumer,South,30,12,9399.45,3,3,3,Loyal Customers
+CUST-0161,Customer_161,Consumer,North,72,13,9455.81,2,4,3,Loyal Customers
+CUST-0493,Customer_493,Home Office,East,9,15,9485.15,5,4,3,Champions (High Value)
+CUST-0301,Customer_301,Home Office,South,23,13,9486.9,4,3,3,Loyal Customers
+CUST-0529,Customer_529,Home Office,North,12,14,9489.3,5,4,3,Champions (High Value)
+CUST-0726,Customer_726,Home Office,West,38,9,9491.94,3,1,3,Hibernating / Lost
+CUST-0530,Customer_530,Consumer,North,118,11,9501.38,1,3,3,Loyal Customers
+CUST-0608,Customer_608,Corporate,East,1,11,9506.1,5,2,3,Promising New
+CUST-0177,Customer_177,Home Office,North,121,10,9536.12,1,2,3,Hibernating / Lost
+CUST-0556,Customer_556,Consumer,North,130,16,9541.36,1,5,3,Loyal Customers
+CUST-0123,Customer_123,Corporate,East,16,10,9573.28,4,2,3,Promising New
+CUST-0699,Customer_699,Consumer,South,91,11,9584.81,2,3,3,Loyal Customers
+CUST-0737,Customer_737,Home Office,South,5,10,9592.58,5,2,3,Promising New
+CUST-0352,Customer_352,Consumer,North,16,11,9605.32,4,2,3,Promising New
+CUST-0004,Customer_4,Consumer,North,40,13,9619.36,3,4,3,Loyal Customers
+CUST-0840,Customer_840,Consumer,East,74,10,9630.57,2,2,3,Hibernating / Lost
+CUST-0622,Customer_622,Corporate,West,120,10,9633.92,1,2,3,Hibernating / Lost
+CUST-0510,Customer_510,Corporate,North,71,14,9646.99,2,4,3,Loyal Customers
+CUST-0579,Customer_579,Consumer,West,48,12,9680.28,3,3,3,Loyal Customers
+CUST-0474,Customer_474,Consumer,East,41,17,9703.48,3,5,3,Loyal Customers
+CUST-0109,Customer_109,Consumer,East,203,16,9707.14,1,5,3,Loyal Customers
+CUST-0275,Customer_275,Consumer,Central,0,13,9708.28,5,3,3,Loyal Customers
+CUST-0692,Customer_692,Consumer,West,54,9,9708.37,2,1,3,Hibernating / Lost
+CUST-0751,Customer_751,Consumer,Central,131,13,9708.85,1,4,3,Loyal Customers
+CUST-0536,Customer_536,Corporate,South,27,10,9710.93,4,2,3,Promising New
+CUST-0420,Customer_420,Consumer,North,127,16,9721.37,1,5,3,Loyal Customers
+CUST-0830,Customer_830,Corporate,West,61,11,9735.14,2,2,3,Hibernating / Lost
+CUST-0144,Customer_144,Corporate,North,30,12,9739.18,3,3,3,Loyal Customers
+CUST-0466,Customer_466,Consumer,Central,86,11,9741.37,2,3,3,Loyal Customers
+CUST-0357,Customer_357,Consumer,East,0,15,9754.36,5,4,3,Champions (High Value)
+CUST-0136,Customer_136,Corporate,West,87,9,9761.24,2,1,3,Hibernating / Lost
+CUST-0436,Customer_436,Consumer,South,98,15,9782.0,1,5,3,Loyal Customers
+CUST-0038,Customer_38,Home Office,South,174,12,9787.88,1,3,3,Loyal Customers
+CUST-0523,Customer_523,Consumer,South,33,17,9802.14,3,5,3,Loyal Customers
+CUST-0444,Customer_444,Consumer,West,148,14,9805.34,1,4,3,Loyal Customers
+CUST-0677,Customer_677,Home Office,South,79,12,9806.63,2,3,3,Loyal Customers
+CUST-0791,Customer_791,Consumer,South,60,12,9814.87,2,3,3,Loyal Customers
+CUST-0167,Customer_167,Consumer,East,28,13,9827.32,4,3,3,Loyal Customers
+CUST-0520,Customer_520,Corporate,East,1,14,9835.61,5,4,3,Champions (High Value)
+CUST-0397,Customer_397,Consumer,West,104,10,9854.7,1,2,3,Hibernating / Lost
+CUST-0208,Customer_208,Corporate,East,4,11,9859.57,5,2,3,Promising New
+CUST-0653,Customer_653,Consumer,South,35,18,9861.88,3,5,3,Loyal Customers
+CUST-0135,Customer_135,Consumer,East,66,11,9867.67,2,2,3,Hibernating / Lost
+CUST-0434,Customer_434,Corporate,South,77,7,9908.26,2,1,3,Hibernating / Lost
+CUST-0628,Customer_628,Consumer,South,41,14,9922.75,3,4,3,Loyal Customers
+CUST-0432,Customer_432,Corporate,North,90,16,9925.18,2,5,3,Loyal Customers
+CUST-0580,Customer_580,Corporate,North,187,12,9927.95,1,3,3,Loyal Customers
+CUST-0513,Customer_513,Consumer,West,7,15,9930.31,5,4,3,Champions (High Value)
+CUST-0360,Customer_360,Corporate,West,9,13,9933.35,5,3,3,Loyal Customers
+CUST-0022,Customer_22,Consumer,North,77,17,9942.75,2,5,3,Loyal Customers
+CUST-0205,Customer_205,Corporate,South,53,11,9949.54,2,2,3,Hibernating / Lost
+CUST-0651,Customer_651,Consumer,North,67,11,9952.14,2,2,3,Hibernating / Lost
+CUST-0801,Customer_801,Home Office,Central,30,14,9954.48,3,4,3,Loyal Customers
+CUST-0793,Customer_793,Corporate,West,26,11,9974.93,4,2,3,Promising New
+CUST-0128,Customer_128,Corporate,North,101,11,9976.76,1,3,3,Loyal Customers
+CUST-0221,Customer_221,Corporate,East,23,13,9976.96,4,3,3,Loyal Customers
+CUST-0170,Customer_170,Consumer,North,121,8,10031.77,1,1,3,Hibernating / Lost
+CUST-0350,Customer_350,Corporate,North,11,12,10054.42,5,3,3,Loyal Customers
+CUST-0748,Customer_748,Consumer,North,112,7,10065.48,1,1,3,Hibernating / Lost
+CUST-0823,Customer_823,Home Office,North,117,9,10072.86,1,1,3,Hibernating / Lost
+CUST-0382,Customer_382,Corporate,West,79,12,10078.24,2,3,3,Loyal Customers
+CUST-0747,Customer_747,Corporate,West,31,14,10103.56,3,4,3,Loyal Customers
+CUST-0591,Customer_591,Corporate,Central,38,9,10111.86,3,1,3,Hibernating / Lost
+CUST-0080,Customer_80,Corporate,West,77,18,10113.19,2,5,3,Loyal Customers
+CUST-0813,Customer_813,Home Office,Central,24,9,10118.45,4,1,3,Promising New
+CUST-0340,Customer_340,Home Office,East,32,11,10130.5,3,2,3,Hibernating / Lost
+CUST-0405,Customer_405,Consumer,West,59,15,10164.24,2,5,3,Loyal Customers
+CUST-0241,Customer_241,Consumer,South,37,20,10165.03,3,5,3,Loyal Customers
+CUST-0379,Customer_379,Consumer,East,91,15,10165.29,2,5,3,Loyal Customers
+CUST-0347,Customer_347,Consumer,Central,9,12,10167.44,5,3,3,Loyal Customers
+CUST-0484,Customer_484,Home Office,West,10,10,10167.84,5,2,3,Promising New
+CUST-0242,Customer_242,Corporate,North,52,20,10201.54,3,5,3,Loyal Customers
+CUST-0152,Customer_152,Home Office,South,87,15,10235.56,2,5,4,Loyal Customers
+CUST-0465,Customer_465,Corporate,West,115,12,10245.55,1,3,4,Loyal Customers
+CUST-0721,Customer_721,Home Office,North,8,15,10250.98,5,4,4,Champions (High Value)
+CUST-0753,Customer_753,Corporate,North,7,13,10285.11,5,3,4,Loyal Customers
+CUST-0107,Customer_107,Home Office,South,31,14,10288.31,3,4,4,Loyal Customers
+CUST-0507,Customer_507,Corporate,East,10,13,10305.02,5,3,4,Loyal Customers
+CUST-0728,Customer_728,Corporate,West,48,15,10310.24,3,4,4,Loyal Customers
+CUST-0504,Customer_504,Consumer,South,33,10,10314.17,3,2,4,Hibernating / Lost
+CUST-0723,Customer_723,Corporate,Central,40,12,10322.21,3,3,4,Loyal Customers
+CUST-0366,Customer_366,Consumer,East,44,11,10342.37,3,2,4,Hibernating / Lost
+CUST-0353,Customer_353,Corporate,East,16,10,10352.2,4,2,4,Promising New
+CUST-0356,Customer_356,Corporate,Central,22,14,10390.15,4,4,4,Champions (High Value)
+CUST-0688,Customer_688,Corporate,North,51,14,10417.59,3,4,4,Loyal Customers
+CUST-0299,Customer_299,Consumer,South,9,10,10426.38,5,2,4,Promising New
+CUST-0030,Customer_30,Consumer,North,3,17,10436.95,5,5,4,Champions (High Value)
+CUST-0714,Customer_714,Corporate,Central,38,8,10437.48,3,1,4,Hibernating / Lost
+CUST-0081,Customer_81,Consumer,East,5,18,10465.64,5,5,4,Champions (High Value)
+CUST-0231,Customer_231,Consumer,South,54,10,10483.26,2,2,4,Hibernating / Lost
+CUST-0775,Customer_775,Home Office,North,13,11,10488.56,5,2,4,Promising New
+CUST-0539,Customer_539,Home Office,West,48,9,10540.82,3,1,4,Hibernating / Lost
+CUST-0832,Customer_832,Corporate,East,73,7,10543.01,2,1,4,Hibernating / Lost
+CUST-0811,Customer_811,Home Office,South,92,13,10548.97,2,4,4,Loyal Customers
+CUST-0508,Customer_508,Home Office,Central,29,16,10550.18,4,5,4,Champions (High Value)
+CUST-0463,Customer_463,Corporate,East,82,12,10557.48,2,3,4,Loyal Customers
+CUST-0039,Customer_39,Home Office,North,3,9,10557.91,5,1,4,Promising New
+CUST-0254,Customer_254,Corporate,East,1,14,10560.65,5,4,4,Champions (High Value)
+CUST-0799,Customer_799,Corporate,West,12,14,10588.02,5,4,4,Champions (High Value)
+CUST-0166,Customer_166,Corporate,North,15,15,10593.91,4,4,4,Champions (High Value)
+CUST-0162,Customer_162,Corporate,East,16,15,10624.82,4,4,4,Champions (High Value)
+CUST-0483,Customer_483,Consumer,Central,81,17,10652.35,2,5,4,Loyal Customers
+CUST-0198,Customer_198,Corporate,East,6,13,10691.02,5,3,4,Loyal Customers
+CUST-0678,Customer_678,Corporate,East,60,13,10701.22,2,4,4,Loyal Customers
+CUST-0788,Customer_788,Consumer,South,18,11,10734.58,4,2,4,Promising New
+CUST-0664,Customer_664,Corporate,East,8,15,10752.18,5,4,4,Champions (High Value)
+CUST-0017,Customer_17,Consumer,East,48,16,10776.56,3,5,4,Loyal Customers
+CUST-0810,Customer_810,Consumer,North,58,17,10803.46,2,5,4,Loyal Customers
+CUST-0184,Customer_184,Consumer,South,39,17,10819.18,3,5,4,Loyal Customers
+CUST-0248,Customer_248,Consumer,West,149,14,10889.37,1,4,4,Loyal Customers
+CUST-0515,Customer_515,Consumer,West,13,12,10903.05,5,3,4,Loyal Customers
+CUST-0514,Customer_514,Corporate,West,46,9,10919.27,3,1,4,Hibernating / Lost
+CUST-0756,Customer_756,Corporate,East,129,7,10947.85,1,1,4,Hibernating / Lost
+CUST-0334,Customer_334,Corporate,Central,9,10,10950.68,5,2,4,Promising New
+CUST-0090,Customer_90,Consumer,North,6,17,10953.22,5,5,4,Champions (High Value)
+CUST-0706,Customer_706,Corporate,South,19,9,10956.84,4,1,4,Promising New
+CUST-0046,Customer_46,Consumer,North,23,18,10974.32,4,5,4,Champions (High Value)
+CUST-0633,Customer_633,Home Office,West,64,14,10976.37,2,4,4,Loyal Customers
+CUST-0607,Customer_607,Corporate,North,32,11,10981.99,3,2,4,Hibernating / Lost
+CUST-0359,Customer_359,Consumer,South,53,19,11005.05,2,5,4,Loyal Customers
+CUST-0588,Customer_588,Consumer,South,30,14,11111.57,3,4,4,Loyal Customers
+CUST-0037,Customer_37,Corporate,West,28,21,11113.67,4,5,4,Champions (High Value)
+CUST-0439,Customer_439,Corporate,North,13,10,11128.97,4,2,4,Promising New
+CUST-0689,Customer_689,Home Office,North,48,20,11148.11,3,5,4,Loyal Customers
+CUST-0545,Customer_545,Home Office,West,10,11,11148.57,5,2,4,Promising New
+CUST-0450,Customer_450,Home Office,West,49,14,11148.82,3,4,4,Loyal Customers
+CUST-0629,Customer_629,Home Office,North,61,12,11148.99,2,3,4,Loyal Customers
+CUST-0566,Customer_566,Consumer,Central,45,14,11166.72,3,4,4,Loyal Customers
+CUST-0437,Customer_437,Corporate,West,27,15,11178.3,4,4,4,Champions (High Value)
+CUST-0329,Customer_329,Consumer,North,1,11,11179.07,5,2,4,Promising New
+CUST-0770,Customer_770,Home Office,South,89,21,11194.42,2,5,4,Loyal Customers
+CUST-0502,Customer_502,Consumer,South,238,13,11218.26,1,4,4,Loyal Customers
+CUST-0558,Customer_558,Home Office,North,35,12,11218.6,3,3,4,Loyal Customers
+CUST-0538,Customer_538,Consumer,East,65,14,11242.95,2,4,4,Loyal Customers
+CUST-0244,Customer_244,Consumer,North,26,17,11254.69,4,5,4,Champions (High Value)
+CUST-0744,Customer_744,Consumer,North,19,8,11270.26,4,1,4,Promising New
+CUST-0560,Customer_560,Home Office,North,9,13,11274.17,5,3,4,Loyal Customers
+CUST-0127,Customer_127,Home Office,North,76,12,11310.41,2,3,4,Loyal Customers
+CUST-0671,Customer_671,Consumer,Central,51,14,11318.71,3,4,4,Loyal Customers
+CUST-0407,Customer_407,Home Office,Central,15,18,11351.79,4,5,4,Champions (High Value)
+CUST-0848,Customer_848,Corporate,West,16,11,11365.8,4,2,4,Promising New
+CUST-0215,Customer_215,Home Office,North,8,21,11385.43,5,5,4,Champions (High Value)
+CUST-0121,Customer_121,Consumer,Central,88,12,11433.14,2,3,4,Loyal Customers
+CUST-0478,Customer_478,Corporate,South,19,13,11446.23,4,3,4,Loyal Customers
+CUST-0641,Customer_641,Consumer,South,32,14,11459.57,3,4,4,Loyal Customers
+CUST-0649,Customer_649,Home Office,North,41,16,11464.52,3,5,4,Loyal Customers
+CUST-0021,Customer_21,Consumer,East,6,12,11466.67,5,3,4,Loyal Customers
+CUST-0661,Customer_661,Consumer,North,42,13,11520.38,3,4,4,Loyal Customers
+CUST-0368,Customer_368,Consumer,North,62,15,11527.8,2,5,4,Loyal Customers
+CUST-0546,Customer_546,Consumer,North,243,12,11534.92,1,3,4,Loyal Customers
+CUST-0063,Customer_63,Corporate,East,105,11,11537.11,1,3,4,Loyal Customers
+CUST-0145,Customer_145,Corporate,South,7,15,11538.43,5,4,4,Champions (High Value)
+CUST-0253,Customer_253,Consumer,West,70,16,11539.05,2,5,4,Loyal Customers
+CUST-0837,Customer_837,Consumer,West,27,9,11551.48,4,1,4,Promising New
+CUST-0730,Customer_730,Home Office,South,30,16,11575.57,3,5,4,Loyal Customers
+CUST-0220,Customer_220,Consumer,South,55,11,11593.19,2,2,4,Hibernating / Lost
+CUST-0169,Customer_169,Consumer,South,130,11,11608.9,1,3,4,Loyal Customers
+CUST-0073,Customer_73,Corporate,North,19,15,11612.12,4,4,4,Champions (High Value)
+CUST-0001,Customer_1,Corporate,North,17,15,11620.15,4,4,4,Champions (High Value)
+CUST-0096,Customer_96,Consumer,North,4,13,11637.11,5,3,4,Loyal Customers
+CUST-0137,Customer_137,Consumer,Central,52,13,11642.31,3,4,4,Loyal Customers
+CUST-0803,Customer_803,Consumer,West,267,5,11649.76,1,1,4,Hibernating / Lost
+CUST-0802,Customer_802,Corporate,Central,0,20,11662.21,5,5,4,Champions (High Value)
+CUST-0087,Customer_87,Consumer,North,66,10,11674.62,2,2,4,Hibernating / Lost
+CUST-0612,Customer_612,Consumer,West,39,11,11726.2,3,2,4,Hibernating / Lost
+CUST-0298,Customer_298,Corporate,South,161,14,11762.34,1,4,4,Loyal Customers
+CUST-0476,Customer_476,Consumer,West,137,14,11767.67,1,4,4,Loyal Customers
+CUST-0584,Customer_584,Consumer,East,16,15,11805.15,4,4,4,Champions (High Value)
+CUST-0683,Customer_683,Consumer,South,17,14,11846.84,4,4,4,Champions (High Value)
+CUST-0319,Customer_319,Corporate,North,9,9,11871.12,5,1,4,Promising New
+CUST-0084,Customer_84,Corporate,South,141,10,11884.88,1,2,4,Hibernating / Lost
+CUST-0698,Customer_698,Consumer,South,14,17,11893.67,4,5,4,Champions (High Value)
+CUST-0271,Customer_271,Consumer,East,22,11,11901.85,4,2,4,Promising New
+CUST-0320,Customer_320,Home Office,West,12,17,11902.93,5,5,4,Champions (High Value)
+CUST-0418,Customer_418,Consumer,South,97,16,11911.56,1,5,4,Loyal Customers
+CUST-0473,Customer_473,Consumer,South,29,7,11954.38,4,1,4,Promising New
+CUST-0126,Customer_126,Corporate,Central,40,13,11982.65,3,4,4,Loyal Customers
+CUST-0089,Customer_89,Consumer,North,20,18,11982.68,4,5,4,Champions (High Value)
+CUST-0229,Customer_229,Home Office,North,3,16,12044.98,5,5,4,Champions (High Value)
+CUST-0581,Customer_581,Corporate,North,62,15,12052.63,2,5,4,Loyal Customers
+CUST-0424,Customer_424,Consumer,Central,132,9,12053.82,1,1,4,Hibernating / Lost
+CUST-0601,Customer_601,Consumer,South,75,19,12154.99,2,5,4,Loyal Customers
+CUST-0151,Customer_151,Consumer,East,27,9,12209.73,4,1,4,Promising New
+CUST-0729,Customer_729,Consumer,North,19,11,12236.51,4,2,4,Promising New
+CUST-0110,Customer_110,Consumer,West,75,15,12242.48,2,5,4,Loyal Customers
+CUST-0550,Customer_550,Consumer,South,54,11,12325.45,2,2,4,Hibernating / Lost
+CUST-0143,Customer_143,Consumer,East,20,16,12333.71,4,5,4,Champions (High Value)
+CUST-0593,Customer_593,Consumer,West,14,15,12341.83,4,4,4,Champions (High Value)
+CUST-0839,Customer_839,Corporate,South,354,12,12356.93,1,3,4,Loyal Customers
+CUST-0480,Customer_480,Corporate,East,54,17,12357.58,2,5,4,Loyal Customers
+CUST-0214,Customer_214,Consumer,East,98,12,12377.09,1,3,4,Loyal Customers
+CUST-0263,Customer_263,Consumer,South,18,14,12378.64,4,4,4,Champions (High Value)
+CUST-0426,Customer_426,Consumer,South,8,13,12399.47,5,3,4,Loyal Customers
+CUST-0251,Customer_251,Home Office,South,220,11,12497.74,1,3,4,Loyal Customers
+CUST-0188,Customer_188,Consumer,South,30,14,12502.91,3,4,4,Loyal Customers
+CUST-0115,Customer_115,Consumer,North,50,16,12513.03,3,5,4,Loyal Customers
+CUST-0637,Customer_637,Consumer,East,3,12,12547.36,5,3,4,Loyal Customers
+CUST-0259,Customer_259,Consumer,North,61,12,12551.57,2,3,4,Loyal Customers
+CUST-0471,Customer_471,Corporate,North,57,14,12573.39,2,4,4,Loyal Customers
+CUST-0281,Customer_281,Consumer,East,40,12,12578.31,3,3,4,Loyal Customers
+CUST-0268,Customer_268,Consumer,East,16,15,12578.39,4,4,4,Champions (High Value)
+CUST-0613,Customer_613,Consumer,East,274,9,12631.85,1,1,4,Hibernating / Lost
+CUST-0212,Customer_212,Consumer,East,76,13,12639.89,2,4,4,Loyal Customers
+CUST-0780,Customer_780,Corporate,North,182,15,12645.59,1,5,4,Loyal Customers
+CUST-0141,Customer_141,Consumer,Central,13,13,12646.27,4,3,4,Loyal Customers
+CUST-0387,Customer_387,Consumer,North,51,17,12656.49,3,5,4,Loyal Customers
+CUST-0062,Customer_62,Consumer,South,171,16,12780.62,1,5,4,Loyal Customers
+CUST-0408,Customer_408,Consumer,North,67,16,12792.94,2,5,4,Loyal Customers
+CUST-0647,Customer_647,Corporate,North,21,15,12819.8,4,4,4,Champions (High Value)
+CUST-0798,Customer_798,Home Office,North,19,13,12820.81,4,3,4,Loyal Customers
+CUST-0719,Customer_719,Corporate,East,128,17,12824.86,1,5,4,Loyal Customers
+CUST-0213,Customer_213,Consumer,West,4,14,12848.9,5,4,4,Champions (High Value)
+CUST-0825,Customer_825,Consumer,South,43,14,12852.91,3,4,4,Loyal Customers
+CUST-0499,Customer_499,Consumer,West,100,11,12900.19,1,3,4,Loyal Customers
+CUST-0657,Customer_657,Home Office,Central,13,16,12910.52,4,5,4,Champions (High Value)
+CUST-0239,Customer_239,Consumer,West,77,8,12929.84,2,1,4,Hibernating / Lost
+CUST-0102,Customer_102,Corporate,West,29,14,12949.4,4,4,4,Champions (High Value)
+CUST-0094,Customer_94,Consumer,East,39,9,13017.13,3,1,4,Hibernating / Lost
+CUST-0834,Customer_834,Corporate,South,23,10,13019.49,4,2,4,Promising New
+CUST-0377,Customer_377,Corporate,North,17,17,13041.01,4,5,4,Champions (High Value)
+CUST-0745,Customer_745,Consumer,Central,0,17,13076.97,5,5,4,Champions (High Value)
+CUST-0517,Customer_517,Corporate,West,152,9,13077.59,1,1,4,Hibernating / Lost
+CUST-0640,Customer_640,Consumer,South,21,14,13084.01,4,4,4,Champions (High Value)
+CUST-0311,Customer_311,Consumer,North,24,13,13095.19,4,3,4,Loyal Customers
+CUST-0273,Customer_273,Consumer,South,11,10,13121.35,5,2,4,Promising New
+CUST-0288,Customer_288,Corporate,West,64,14,13159.78,2,4,4,Loyal Customers
+CUST-0344,Customer_344,Home Office,West,8,15,13179.07,5,4,4,Champions (High Value)
+CUST-0454,Customer_454,Corporate,West,10,14,13216.07,5,4,4,Champions (High Value)
+CUST-0015,Customer_15,Home Office,South,13,17,13225.37,4,5,4,Champions (High Value)
+CUST-0604,Customer_604,Consumer,South,10,16,13227.83,5,5,4,Champions (High Value)
+CUST-0442,Customer_442,Corporate,West,24,14,13233.57,4,4,4,Champions (High Value)
+CUST-0404,Customer_404,Consumer,North,40,17,13333.15,3,5,4,Loyal Customers
+CUST-0722,Customer_722,Consumer,North,67,9,13342.33,2,1,4,Hibernating / Lost
+CUST-0399,Customer_399,Consumer,North,127,16,13345.76,1,5,4,Loyal Customers
+CUST-0279,Customer_279,Consumer,East,16,10,13409.35,4,2,4,Promising New
+CUST-0759,Customer_759,Home Office,North,6,15,13426.33,5,4,4,Champions (High Value)
+CUST-0114,Customer_114,Home Office,South,57,11,13476.55,2,2,4,Hibernating / Lost
+CUST-0097,Customer_97,Corporate,Central,133,11,13478.08,1,3,4,Loyal Customers
+CUST-0773,Customer_773,Consumer,North,82,13,13483.4,2,4,4,Loyal Customers
+CUST-0150,Customer_150,Consumer,West,12,11,13489.49,5,2,4,Promising New
+CUST-0703,Customer_703,Consumer,North,87,15,13543.39,2,5,4,Loyal Customers
+CUST-0372,Customer_372,Corporate,South,10,14,13563.64,5,4,4,Champions (High Value)
+CUST-0390,Customer_390,Consumer,Central,21,17,13571.61,4,5,5,Champions (High Value)
+CUST-0180,Customer_180,Consumer,West,15,13,13584.88,4,3,5,Loyal Customers
+CUST-0526,Customer_526,Consumer,West,11,19,13596.24,5,5,5,Champions (High Value)
+CUST-0720,Customer_720,Consumer,South,169,15,13605.41,1,5,5,Loyal Customers
+CUST-0521,Customer_521,Consumer,North,103,17,13631.09,1,5,5,Loyal Customers
+CUST-0064,Customer_64,Corporate,South,13,17,13673.79,4,5,5,Champions (High Value)
+CUST-0644,Customer_644,Consumer,East,42,14,13678.19,3,4,5,Loyal Customers
+CUST-0149,Customer_149,Consumer,North,5,15,13695.12,5,4,5,Champions (High Value)
+CUST-0522,Customer_522,Home Office,Central,106,10,13707.26,1,2,5,Hibernating / Lost
+CUST-0787,Customer_787,Corporate,North,73,14,13716.09,2,4,5,Loyal Customers
+CUST-0219,Customer_219,Consumer,Central,12,9,13776.74,5,1,5,Promising New
+CUST-0269,Customer_269,Consumer,East,130,11,13781.63,1,3,5,Loyal Customers
+CUST-0346,Customer_346,Consumer,North,35,16,13802.59,3,5,5,Loyal Customers
+CUST-0331,Customer_331,Consumer,South,8,16,13850.01,5,5,5,Champions (High Value)
+CUST-0386,Customer_386,Home Office,East,32,14,13876.41,3,4,5,Loyal Customers
+CUST-0072,Customer_72,Corporate,South,23,15,13916.31,4,4,5,Champions (High Value)
+CUST-0531,Customer_531,Consumer,North,41,13,13922.81,3,4,5,Loyal Customers
+CUST-0713,Customer_713,Consumer,North,12,14,13953.46,5,4,5,Champions (High Value)
+CUST-0154,Customer_154,Consumer,North,62,10,13978.46,2,2,5,Hibernating / Lost
+CUST-0322,Customer_322,Corporate,North,79,14,13978.73,2,4,5,Loyal Customers
+CUST-0393,Customer_393,Consumer,North,3,17,14063.06,5,5,5,Champions (High Value)
+CUST-0762,Customer_762,Consumer,South,27,13,14117.76,4,3,5,Loyal Customers
+CUST-0118,Customer_118,Corporate,West,28,10,14137.18,4,2,5,Promising New
+CUST-0381,Customer_381,Home Office,North,136,10,14138.12,1,2,5,Hibernating / Lost
+CUST-0413,Customer_413,Corporate,East,36,11,14160.21,3,2,5,Hibernating / Lost
+CUST-0616,Customer_616,Consumer,East,38,15,14164.13,3,4,5,Loyal Customers
+CUST-0414,Customer_414,Corporate,Central,47,11,14175.55,3,2,5,Hibernating / Lost
+CUST-0659,Customer_659,Consumer,East,66,8,14222.65,2,1,5,Hibernating / Lost
+CUST-0732,Customer_732,Consumer,North,31,17,14267.34,3,5,5,Loyal Customers
+CUST-0034,Customer_34,Corporate,West,15,18,14271.42,4,5,5,Champions (High Value)
+CUST-0619,Customer_619,Corporate,West,98,11,14280.66,1,3,5,Loyal Customers
+CUST-0012,Customer_12,Consumer,South,40,13,14280.9,3,4,5,Loyal Customers
+CUST-0272,Customer_272,Consumer,North,4,16,14387.04,5,5,5,Champions (High Value)
+CUST-0725,Customer_725,Consumer,North,33,16,14391.87,3,5,5,Loyal Customers
+CUST-0292,Customer_292,Consumer,West,34,10,14445.41,3,2,5,Hibernating / Lost
+CUST-0355,Customer_355,Corporate,South,25,15,14482.06,4,4,5,Champions (High Value)
+CUST-0283,Customer_283,Home Office,West,157,17,14504.96,1,5,5,Loyal Customers
+CUST-0047,Customer_47,Consumer,Central,92,16,14544.26,2,5,5,Loyal Customers
+CUST-0638,Customer_638,Home Office,South,37,10,14547.72,3,2,5,Hibernating / Lost
+CUST-0373,Customer_373,Home Office,North,79,13,14552.1,2,4,5,Loyal Customers
+CUST-0800,Customer_800,Corporate,North,3,11,14552.11,5,2,5,Promising New
+CUST-0025,Customer_25,Corporate,South,77,18,14584.43,2,5,5,Loyal Customers
+CUST-0660,Customer_660,Consumer,Central,29,14,14588.13,4,4,5,Champions (High Value)
+CUST-0492,Customer_492,Consumer,East,0,14,14658.0,5,4,5,Champions (High Value)
+CUST-0105,Customer_105,Consumer,North,46,11,14663.48,3,2,5,Hibernating / Lost
+CUST-0230,Customer_230,Consumer,West,15,21,14671.06,4,5,5,Champions (High Value)
+CUST-0645,Customer_645,Consumer,Central,3,19,14690.33,5,5,5,Champions (High Value)
+CUST-0158,Customer_158,Corporate,West,20,15,14701.43,4,4,5,Champions (High Value)
+CUST-0701,Customer_701,Consumer,South,9,13,14758.51,5,3,5,Loyal Customers
+CUST-0307,Customer_307,Consumer,East,53,15,14785.67,2,5,5,Loyal Customers
+CUST-0767,Customer_767,Consumer,South,8,14,14812.94,5,4,5,Champions (High Value)
+CUST-0237,Customer_237,Consumer,East,63,16,14821.39,2,5,5,Loyal Customers
+CUST-0077,Customer_77,Consumer,South,36,15,14834.78,3,4,5,Loyal Customers
+CUST-0367,Customer_367,Corporate,North,119,13,14863.21,1,4,5,Loyal Customers
+CUST-0286,Customer_286,Corporate,West,28,8,14909.19,4,1,5,Promising New
+CUST-0247,Customer_247,Consumer,East,96,12,14912.06,1,3,5,Loyal Customers
+CUST-0831,Customer_831,Consumer,Central,52,9,14932.04,3,1,5,Hibernating / Lost
+CUST-0464,Customer_464,Consumer,East,79,12,14946.18,2,3,5,Loyal Customers
+CUST-0821,Customer_821,Consumer,West,129,14,14966.55,1,4,5,Loyal Customers
+CUST-0824,Customer_824,Consumer,West,38,13,14989.62,3,4,5,Loyal Customers
+CUST-0314,Customer_314,Consumer,South,85,10,15022.97,2,2,5,Hibernating / Lost
+CUST-0389,Customer_389,Consumer,Central,24,16,15040.62,4,5,5,Champions (High Value)
+CUST-0428,Customer_428,Corporate,Central,49,16,15059.9,3,5,5,Loyal Customers
+CUST-0255,Customer_255,Corporate,North,78,15,15069.39,2,5,5,Loyal Customers
+CUST-0533,Customer_533,Corporate,West,40,13,15101.78,3,4,5,Loyal Customers
+CUST-0806,Customer_806,Home Office,West,29,14,15114.72,4,4,5,Champions (High Value)
+CUST-0142,Customer_142,Consumer,West,19,16,15179.16,4,5,5,Champions (High Value)
+CUST-0289,Customer_289,Consumer,North,123,14,15200.33,1,4,5,Loyal Customers
+CUST-0095,Customer_95,Corporate,Central,101,14,15259.08,1,4,5,Loyal Customers
+CUST-0685,Customer_685,Corporate,West,151,12,15259.49,1,3,5,Loyal Customers
+CUST-0343,Customer_343,Corporate,North,46,20,15319.89,3,5,5,Loyal Customers
+CUST-0630,Customer_630,Consumer,West,56,14,15443.5,2,4,5,Loyal Customers
+CUST-0481,Customer_481,Consumer,South,2,15,15456.04,5,4,5,Champions (High Value)
+CUST-0148,Customer_148,Consumer,North,11,13,15507.35,5,3,5,Loyal Customers
+CUST-0654,Customer_654,Consumer,South,19,16,15525.94,4,5,5,Champions (High Value)
+CUST-0217,Customer_217,Consumer,North,95,13,15527.0,1,4,5,Loyal Customers
+CUST-0543,Customer_543,Consumer,East,49,17,15567.12,3,5,5,Loyal Customers
+CUST-0378,Customer_378,Corporate,Central,38,10,15614.81,3,2,5,Hibernating / Lost
+CUST-0050,Customer_50,Home Office,North,4,13,15663.22,5,3,5,Loyal Customers
+CUST-0061,Customer_61,Consumer,South,111,11,15681.36,1,3,5,Loyal Customers
+CUST-0391,Customer_391,Home Office,West,0,15,15732.92,5,4,5,Champions (High Value)
+CUST-0117,Customer_117,Home Office,Central,15,16,15733.53,4,5,5,Champions (High Value)
+CUST-0078,Customer_78,Consumer,North,100,12,15757.41,1,3,5,Loyal Customers
+CUST-0040,Customer_40,Home Office,Central,12,12,15776.99,5,3,5,Loyal Customers
+CUST-0132,Customer_132,Consumer,North,16,18,15788.51,4,5,5,Champions (High Value)
+CUST-0841,Customer_841,Consumer,North,80,12,15820.32,2,3,5,Loyal Customers
+CUST-0669,Customer_669,Consumer,East,51,12,15859.18,3,3,5,Loyal Customers
+CUST-0672,Customer_672,Consumer,North,77,11,15889.06,2,2,5,Hibernating / Lost
+CUST-0548,Customer_548,Consumer,South,1,17,16123.49,5,5,5,Champions (High Value)
+CUST-0278,Customer_278,Consumer,South,36,18,16171.49,3,5,5,Loyal Customers
+CUST-0845,Customer_845,Corporate,East,1,16,16225.16,5,5,5,Champions (High Value)
+CUST-0650,Customer_650,Consumer,East,64,18,16260.21,2,5,5,Loyal Customers
+CUST-0403,Customer_403,Consumer,East,67,12,16270.65,2,3,5,Loyal Customers
+CUST-0309,Customer_309,Consumer,South,25,17,16271.09,4,5,5,Champions (High Value)
+CUST-0194,Customer_194,Home Office,North,10,12,16293.29,5,3,5,Loyal Customers
+CUST-0392,Customer_392,Consumer,North,34,21,16330.28,3,5,5,Loyal Customers
+CUST-0430,Customer_430,Home Office,South,35,16,16346.41,3,5,5,Loyal Customers
+CUST-0771,Customer_771,Consumer,South,39,15,16347.85,3,4,5,Loyal Customers
+CUST-0396,Customer_396,Consumer,West,102,17,16384.76,1,5,5,Loyal Customers
+CUST-0553,Customer_553,Consumer,West,21,17,16400.5,4,5,5,Champions (High Value)
+CUST-0033,Customer_33,Home Office,North,17,17,16432.23,4,5,5,Champions (High Value)
+CUST-0774,Customer_774,Corporate,North,31,11,16439.7,3,2,5,Hibernating / Lost
+CUST-0384,Customer_384,Home Office,West,135,15,16521.44,1,5,5,Loyal Customers
+CUST-0646,Customer_646,Home Office,South,26,14,16621.65,4,4,5,Champions (High Value)
+CUST-0133,Customer_133,Consumer,Central,6,20,16627.01,5,5,5,Champions (High Value)
+CUST-0470,Customer_470,Corporate,North,129,10,16670.99,1,2,5,Hibernating / Lost
+CUST-0303,Customer_303,Consumer,West,39,14,16755.37,3,4,5,Loyal Customers
+CUST-0835,Customer_835,Corporate,Central,19,10,16869.97,4,2,5,Promising New
+CUST-0234,Customer_234,Corporate,North,55,20,16909.69,2,5,5,Loyal Customers
+CUST-0658,Customer_658,Home Office,West,102,17,16921.9,1,5,5,Loyal Customers
+CUST-0501,Customer_501,Corporate,North,110,14,16952.54,1,4,5,Loyal Customers
+CUST-0540,Customer_540,Home Office,North,51,10,17000.94,3,2,5,Hibernating / Lost
+CUST-0290,Customer_290,Home Office,Central,25,17,17047.05,4,5,5,Champions (High Value)
+CUST-0568,Customer_568,Corporate,South,60,16,17059.64,2,5,5,Loyal Customers
+CUST-0634,Customer_634,Corporate,West,14,20,17100.64,4,5,5,Champions (High Value)
+CUST-0383,Customer_383,Consumer,West,0,14,17141.52,5,4,5,Champions (High Value)
+CUST-0743,Customer_743,Consumer,Central,33,8,17175.21,3,1,5,Hibernating / Lost
+CUST-0578,Customer_578,Consumer,West,42,19,17196.74,3,5,5,Loyal Customers
+CUST-0718,Customer_718,Consumer,North,33,15,17223.37,3,4,5,Loyal Customers
+CUST-0785,Customer_785,Consumer,West,17,16,17258.32,4,5,5,Champions (High Value)
+CUST-0572,Customer_572,Corporate,South,75,16,17419.56,2,5,5,Loyal Customers
+CUST-0746,Customer_746,Corporate,West,111,16,17450.82,1,5,5,Loyal Customers
+CUST-0589,Customer_589,Consumer,Central,80,13,17465.39,2,4,5,Loyal Customers
+CUST-0605,Customer_605,Consumer,West,21,16,17521.85,4,5,5,Champions (High Value)
+CUST-0044,Customer_44,Consumer,West,6,14,17594.11,5,4,5,Champions (High Value)
+CUST-0716,Customer_716,Consumer,South,38,17,17676.75,3,5,5,Loyal Customers
+CUST-0361,Customer_361,Corporate,Central,77,16,17797.48,2,5,5,Loyal Customers
+CUST-0337,Customer_337,Consumer,Central,60,14,17797.72,2,4,5,Loyal Customers
+CUST-0448,Customer_448,Corporate,West,11,21,17865.31,5,5,5,Champions (High Value)
+CUST-0843,Customer_843,Corporate,West,37,16,17896.16,3,5,5,Loyal Customers
+CUST-0140,Customer_140,Corporate,East,96,18,17909.54,1,5,5,Loyal Customers
+CUST-0427,Customer_427,Consumer,South,16,16,18262.83,4,5,5,Champions (High Value)
+CUST-0782,Customer_782,Consumer,West,58,11,18264.39,2,2,5,Hibernating / Lost
+CUST-0270,Customer_270,Home Office,East,6,16,18309.66,5,5,5,Champions (High Value)
+CUST-0100,Customer_100,Consumer,North,16,19,18412.16,4,5,5,Champions (High Value)
+CUST-0453,Customer_453,Corporate,Central,3,13,18494.9,5,3,5,Loyal Customers
+CUST-0328,Customer_328,Consumer,North,4,13,18547.43,5,3,5,Loyal Customers
+CUST-0600,Customer_600,Home Office,Central,40,14,18747.67,3,4,5,Loyal Customers
+CUST-0697,Customer_697,Consumer,South,13,15,18750.28,4,4,5,Champions (High Value)
+CUST-0223,Customer_223,Corporate,North,58,12,18780.96,2,3,5,Loyal Customers
+CUST-0002,Customer_2,Home Office,Central,62,14,19196.36,2,4,5,Loyal Customers
+CUST-0486,Customer_486,Consumer,East,16,17,19223.81,4,5,5,Champions (High Value)
+CUST-0287,Customer_287,Home Office,East,71,16,19321.81,2,5,5,Loyal Customers
+CUST-0120,Customer_120,Consumer,East,21,16,19555.0,4,5,5,Champions (High Value)
+CUST-0456,Customer_456,Home Office,Central,25,19,19646.65,4,5,5,Champions (High Value)
+CUST-0249,Customer_249,Corporate,Central,53,16,19702.99,2,5,5,Loyal Customers
+CUST-0717,Customer_717,Corporate,East,1,16,19817.15,5,5,5,Champions (High Value)
+CUST-0342,Customer_342,Consumer,Central,39,17,19898.32,3,5,5,Loyal Customers
+CUST-0611,Customer_611,Consumer,South,18,24,20009.77,4,5,5,Champions (High Value)
+CUST-0425,Customer_425,Consumer,South,8,15,20075.09,5,4,5,Champions (High Value)
+CUST-0784,Customer_784,Corporate,West,56,17,20097.67,2,5,5,Loyal Customers
+CUST-0541,Customer_541,Consumer,North,83,13,20122.66,2,4,5,Loyal Customers
+CUST-0267,Customer_267,Corporate,East,65,13,20159.64,2,4,5,Loyal Customers
+CUST-0362,Customer_362,Consumer,West,3,14,20283.3,5,4,5,Champions (High Value)
+CUST-0583,Customer_583,Home Office,South,35,23,20502.39,3,5,5,Loyal Customers
+CUST-0535,Customer_535,Consumer,East,93,13,20608.61,1,4,5,Loyal Customers
+CUST-0318,Customer_318,Corporate,North,17,12,20695.28,4,3,5,Loyal Customers
+CUST-0293,Customer_293,Consumer,North,10,15,20906.9,5,4,5,Champions (High Value)
+CUST-0116,Customer_116,Consumer,South,17,20,21162.96,4,5,5,Champions (High Value)
+CUST-0534,Customer_534,Consumer,North,57,17,21665.64,2,5,5,Loyal Customers
+CUST-0431,Customer_431,Corporate,South,143,15,21800.7,1,5,5,Loyal Customers
+CUST-0491,Customer_491,Consumer,West,83,19,22021.42,2,5,5,Loyal Customers
+CUST-0203,Customer_203,Corporate,North,39,21,22103.96,3,5,5,Loyal Customers
+CUST-0388,Customer_388,Corporate,North,4,19,22870.02,5,5,5,Champions (High Value)
+CUST-0739,Customer_739,Corporate,South,0,16,22894.37,5,5,5,Champions (High Value)
+CUST-0085,Customer_85,Corporate,North,13,13,23121.78,5,3,5,Loyal Customers
+CUST-0709,Customer_709,Corporate,North,54,23,23327.97,2,5,5,Loyal Customers
+CUST-0335,Customer_335,Consumer,South,25,21,23423.47,4,5,5,Champions (High Value)
+CUST-0294,Customer_294,Corporate,North,12,17,25026.85,5,5,5,Champions (High Value)
+CUST-0675,Customer_675,Corporate,North,53,14,29442.54,3,4,5,Loyal Customers

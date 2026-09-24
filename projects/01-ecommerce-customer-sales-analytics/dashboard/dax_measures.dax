@@ -1,0 +1,32 @@
+-- ========================================================================
+-- DAX Measures Library - E-Commerce Customer & Sales Analytics
+-- Author: Farjad Zeya (Data Analyst)
+-- ========================================================================
+
+Total Revenue = SUM(Fact_Sales[sales_amount])
+
+Total Cost = SUM(Fact_Sales[sales_amount]) - SUM(Fact_Sales[profit])
+
+Total Profit = SUM(Fact_Sales[profit])
+
+Profit Margin % = DIVIDE([Total Profit], [Total Revenue], 0)
+
+Total Orders = DISTINCTCOUNT(Fact_Sales[order_id])
+
+Total Unique Customers = DISTINCTCOUNT(Fact_Sales[customer_id])
+
+Average Order Value (AOV) = DIVIDE([Total Revenue], [Total Orders], 0)
+
+Average Units Per Order = DIVIDE(SUM(Fact_Sales[quantity]), [Total Orders], 0)
+
+Revenue LY = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(Dim_Date[Date]))
+
+Revenue YoY Growth % = DIVIDE([Total Revenue] - [Revenue LY], [Revenue LY], 0)
+
+Repeat Customer Rate % = 
+VAR RepeatCust = CALCULATE(DISTINCTCOUNT(Fact_Sales[customer_id]), FILTER(Fact_Sales, [Total Orders] > 1))
+RETURN DIVIDE(RepeatCust, [Total Unique Customers], 0)
+
+Champions Spend = CALCULATE([Total Revenue], Dim_RFM[customer_rfm_segment] = "Champions (High-Value)")
+
+At-Risk Revenue Exposure = CALCULATE([Total Revenue], Dim_RFM[customer_rfm_segment] = "At-Risk Customers")

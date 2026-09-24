@@ -1,0 +1,9 @@
+-- DAX Measures Library - Supply Chain
+Total Shipments = COUNTROWS(Fact_Shipments)
+On-Time Shipments = CALCULATE(COUNTROWS(Fact_Shipments), Fact_Shipments[delivery_status] IN {"On-Time", "Early"})
+Delayed Shipments = CALCULATE(COUNTROWS(Fact_Shipments), Fact_Shipments[delivery_status] = "Delayed")
+On-Time Delivery % = DIVIDE([On-Time Shipments], [Total Shipments], 0)
+Average Delay Days = CALCULATE(AVERAGE(Fact_Shipments[delay_days]), Fact_Shipments[delay_days] > 0)
+Total Freight Cost = SUM(Fact_Shipments[shipping_cost_usd])
+Cost per KG = DIVIDE([Total Freight Cost], SUM(Fact_Shipments[weight_kg]), 0)
+Damage Rate % = DIVIDE(SUM(Fact_Shipments[damage_reported]), [Total Shipments], 0)

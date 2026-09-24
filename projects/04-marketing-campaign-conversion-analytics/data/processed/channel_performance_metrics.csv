@@ -1,0 +1,11 @@
+campaign_id,campaign_name,channel,budget_spend_usd,total_leads,mql_leads,sql_leads,closed_won_customers,total_revenue_usd,cac_usd,roas_multiplier,roi_percentage
+CMP-01,Q1 Enterprise B2B Push,LinkedIn Ads,32000.0,296,197,148,79,862285.3,405.06,26.95,2594.64
+CMP-02,Google Search - High Intent Core,Google Ads,45000.0,348,213,140,48,573432.68,937.5,12.74,1174.29
+CMP-03,Spring SMB Acquisition,Meta (Facebook/IG),28000.0,343,205,131,45,628183.48,622.22,22.44,2143.51
+CMP-04,Customer Nurture & Re-activation,Email Marketing,4500.0,335,256,200,91,1053559.8,49.45,234.12,23312.44
+CMP-05,Content SEO Growth Inbound,Organic Search (SEO),12000.0,383,267,192,82,1014503.36,146.34,84.54,8354.19
+CMP-06,Industry Thought Leader Promo,Influencer Partnerships,22000.0,344,181,102,21,270786.7,1047.62,12.31,1130.85
+CMP-07,Q2 Retargeting Banner Blast,Google Ads,18000.0,360,221,145,50,693889.69,360.0,38.55,3754.94
+CMP-08,LinkedIn Executive Whitepaper,LinkedIn Ads,26000.0,384,272,180,80,1024551.24,325.0,39.41,3840.58
+CMP-09,Webinar Series: AI in Enterprise,LinkedIn Ads,15000.0,365,282,208,113,1263533.15,132.74,84.24,8323.55
+CMP-10,End of Fiscal Year Deal Sprint,Email Marketing,6000.0,342,261,215,109,1498867.83,55.05,249.81,24881.13

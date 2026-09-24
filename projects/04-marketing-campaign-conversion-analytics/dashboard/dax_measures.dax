@@ -1,0 +1,9 @@
+-- DAX Measures Library - Marketing Analytics
+Total Spend = SUM(Dim_Campaigns[budget_spend_usd])
+Attributed Revenue = CALCULATE(SUM(Fact_Leads[deal_value_usd]), Fact_Leads[funnel_stage] = "Closed-Won")
+Total Inbound Leads = COUNTROWS(Fact_Leads)
+Closed-Won Customers = CALCULATE(COUNTROWS(Fact_Leads), Fact_Leads[funnel_stage] = "Closed-Won")
+Conversion Rate % = DIVIDE([Closed-Won Customers], [Total Inbound Leads], 0)
+CAC = DIVIDE([Total Spend], [Closed-Won Customers], 0)
+ROAS = DIVIDE([Attributed Revenue], [Total Spend], 0)
+Net ROI % = DIVIDE([Attributed Revenue] - [Total Spend], [Total Spend], 0)

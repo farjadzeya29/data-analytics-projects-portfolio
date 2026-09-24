@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_tier,total_shipments,ontime_shipments,otd_percentage,average_delay_days,damaged_shipments,damage_rate_pct,total_freight_spend_usd
+SUP-01,Apex Industrial Supplies,Tier 1,291,240,82.47,5.02,6,2.06,138031.5
+SUP-02,Beacon Metals & Hardware,Tier 2,274,227,82.85,4.55,19,6.93,116323.75
+SUP-03,Crown Packaging Solutions,Tier 1,235,187,79.57,5.6,6,2.55,98790.92
+SUP-04,Delta Electronics Corp,Tier 1,255,212,83.14,4.77,2,0.78,111409.03
+SUP-05,Eagle Fasteners & Tools,Tier 3,294,187,63.61,5.09,19,6.46,127021.97
+SUP-06,Falcon Precision Parts,Tier 2,269,225,83.64,5.61,16,5.95,110258.88
+SUP-07,Global Poly & Plastics,Tier 2,286,235,82.17,5.18,18,6.29,126957.98
+SUP-08,Horizon Chemical Logistics,Tier 1,296,233,78.72,4.98,5,1.69,127313.16

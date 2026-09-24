@@ -1,0 +1,9 @@
+-- DAX Measures Library - Banking Churn & Retention
+Total Customers = COUNTROWS(Fact_BankCustomers)
+Churned Customers = CALCULATE(COUNTROWS(Fact_BankCustomers), Fact_BankCustomers[churn] = 1)
+Retained Customers = CALCULATE(COUNTROWS(Fact_BankCustomers), Fact_BankCustomers[churn] = 0)
+Overall Churn Rate % = DIVIDE([Churned Customers], [Total Customers], 0)
+Total Balance at Risk = CALCULATE(SUM(Fact_BankCustomers[account_balance]), Fact_BankCustomers[churn] = 1)
+Avg Balance of Churned = CALCULATE(AVERAGE(Fact_BankCustomers[account_balance]), Fact_BankCustomers[churn] = 1)
+High Risk Churn Rate % = CALCULATE([Overall Churn Rate %], Fact_BankCustomers[retention_risk_tier] = "High Risk")
+High Risk Balance Exposure = CALCULATE(SUM(Fact_BankCustomers[account_balance]), Fact_BankCustomers[retention_risk_tier] = "High Risk")
